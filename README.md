@@ -2,7 +2,19 @@
 
 **I am sharing lessons in various Python Libraries from scratch to intermediate including practice sets which were useful into my journey of Data Science.** 
 
-For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
+For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: & <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
+
+### Overview of Python Libraries
+
+Python libraries are pre-written programs that allow developers to program more efficiently. They are easy to use and can be found in many different frameworks. These libraries provide an API (application programming interface) which makes it easy for developers to use them with their own software programs.
+
+Python libraries are a great way to data analysis and machine learning. They provide powerful functionality and flexibility for any task, regardless of the type of data. Python libraries make it easy for developers and data scientists to prototype and scale their models, regardless of their size or complexity.
+
+
+
+The Python programming language comes with a built-in library called the “Standard Library” which has all the necessary modules for tasks like input/output, data manipulation, text processing, packaging, and more.
+
+Making use of the Python Standard Library is not enough for many developers because it cannot accommodate all their needs. That is why there are also Python Libraries that can be imported in order to make them more efficient when accomplishing specific tasks.
 
 ## Technologies used ⚙️
 
@@ -51,7 +63,16 @@ For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankit
  
 <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
  
-## Timeline
+## Python Libraries for Data Science <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
+
+Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks more quickly and efficiently.
+
+There are many different libraries in Python, which provide useful data analysis tools for scientists and engineers.These libraries can be used to analyze, graph and visualize data. They can also be used to create complex mathematical equations and 3D animations.
+
+Python also has a number of libraries, like :
+
+<h3 align="center"> <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> </h3>
+
 
 
   
