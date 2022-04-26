@@ -67,7 +67,7 @@ Python has become a staple in data science, allowing data analysts and other pro
 
 There are many different libraries in Python, which provide useful data analysis tools for scientists and engineers.These libraries can be used to analyze, graph and visualize data. They can also be used to create complex mathematical equations and 3D animations.
 
-**Before learning [Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries), begin with learning [Python Programming](https://github.com/mrankitgupta/Python-Lessons)**
+**Prerequisite: [Python Programming](https://github.com/mrankitgupta/Python-Lessons)**
 
 Python has a number of libraries, like :
 
