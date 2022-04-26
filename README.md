@@ -106,7 +106,7 @@ Python has a number of libraries, like :
 <h3 align="center"> <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> </h3>
 
 |**Sr.No. 🔢**|**Seaborn Lessons 📕**| **Reference Links :link:**|
-|------|--------------------|---------------------|---------------------|
+|------|--------------------|---------------------|
 |1| Style functions | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=34338s) |
 |2| Color palettes | [TutorialsPoint](https://www.tutorialspoint.com/seaborn/index.htm) |
 |2| Distribution plots | [JavaTpoint](https://www.javatpoint.com/python-seaborn-library) |
