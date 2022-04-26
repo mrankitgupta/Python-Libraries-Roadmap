@@ -73,7 +73,7 @@ Python has a number of libraries, like :
 
 <h3 align="center"> <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> </h3>
 
-|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|**Sr.No. 🔢**|**Pandas Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
 |1| Basics, Data Structures - Series, DataFrame, Panel | [Pandas Course - by Kaggle](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) | [Exercise 1](https://www.kaggle.com/code/mrankitgupta/pandas-1-exercise-creating-reading-and-writing/notebook) |
 |2| **Summary Functions and Maps, Operations** - Slicing, Merging | [Kaggle Notebooks on Pandas](https://www.kaggle.com/mrankitgupta/code) | [Exercise 2](https://www.kaggle.com/code/mrankitgupta/pandas-2exercise-indexing-selecting-assigning) |
@@ -86,17 +86,17 @@ Python has a number of libraries, like :
 <h3 align="center"> <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> 
  </h3>
  
-|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|**Sr.No. 🔢**|**NumPy Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
-|1| Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes | [NumPy Tutorial - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN)|
-|2| NdArray, Datatypes, Array Attributes | [JavaTpoint](https://www.javatpoint.com/numpy-tutorial)|
-|3| Indexing & Slicing, Array Creation | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=27503s), [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) :white_check_mark:|
-|4| Broadcasting, Operations, Functions | [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) :white_check_mark:|
-|5| Mathematics, Matrix, NumPy-Matplotlib | :white_check_mark:|
+|1| Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes | [NumPy Tutorial - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN)| [Exercise 1](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%201%20-%20NdArray) |
+|2| NdArray, Datatypes, Array Attributes | [JavaTpoint](https://www.javatpoint.com/numpy-tutorial)| [Exercise 2](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%202%20-%20Indexing%20%26%20Slicing) |
+|3| Indexing & Slicing, Array Creation | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=27503s), [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) | [Exercise 3](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%203%20-%20NumPy%20Broadcasting) |
+|4| Broadcasting, Operations, Functions | [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) | [Exercise 4](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%204%20-%20NumPy%20Operations) |
+|5| Mathematics, Matrix, NumPy-Matplotlib | :white_check_mark:| [Exercise 5](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%205%20-%20NumPy%20Matrix) & [Exercise 6](https://github.com/mrankitgupta/Python-Libraries/tree/main/Numpy%20Exercises/Exercise%206%20-%20NumPy-Matplotlib) |
 
 <h3 align="center"> <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> </h3>
 
-|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|**Sr.No. 🔢**|**Matplotlib Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
 |1| Basics, Data Visualization, Architecture, Concepts | [Matplotlib Course - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW)|
 |2| Pyplot & Subplot | [JavaTpoint](https://www.javatpoint.com/matplotlib) |
@@ -105,7 +105,7 @@ Python has a number of libraries, like :
 
 <h3 align="center"> <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> </h3>
 
-|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|**Sr.No. 🔢**|**Seaborn Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
 |1| Style functions | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=34338s) |
 |2| Color palettes | [TutorialsPoint](https://www.tutorialspoint.com/seaborn/index.htm) |
