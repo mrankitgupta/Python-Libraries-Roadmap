@@ -8,7 +8,7 @@ For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankit
 
 * <a href="https://www.python.org/">Python</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
-* <a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url">Statistics</a><a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
+* <a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
 ##### Python Libraries : 
 * <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> 
@@ -54,6 +54,7 @@ For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankit
 ## Timeline
 
 
+  
   
 ## Useful sites to learn Coding in Python  :link:
 
