@@ -98,10 +98,10 @@ Python has a number of libraries, like :
 
 |**Sr.No. 🔢**|**Matplotlib Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
-|1| Basics, Data Visualization, Architecture, Concepts | [Matplotlib Course - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW)|
-|2| Pyplot & Subplot | [JavaTpoint](https://www.javatpoint.com/matplotlib) |
-|3| 7 Types of plots | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=32953s)|
-|4| Multiple plots | [TutorialsPoint](https://www.tutorialspoint.com/matplotlib/index.htm) :white_check_mark:|
+|1| Basics, Data Visualization, Architecture, Concepts | [Matplotlib Course - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW)| [Exercise 1](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%201%20-%20Line%20Graph) |
+|2| Pyplot & Subplot | [JavaTpoint](https://www.javatpoint.com/matplotlib) | [Exercise 2](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%202%20-%20Bar%20Graph) |
+|3| 7 Types of plots | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=32953s)| [Exercise 3](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%203%20-%20Histogram) & [Exercise 4](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%204%20-%20Pie%20Chart) |
+|4| Multiple plots | [TutorialsPoint](https://www.tutorialspoint.com/matplotlib/index.htm) :white_check_mark:| [Exercise 5](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%205%20-%20Scatter%20Plot) & [Exercise 6](https://github.com/mrankitgupta/Python-Libraries/tree/main/Matplotlib%20Exercises/Exercise%206%20-%203D%20Plot) |
 
 <h3 align="center"> <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> </h3>
 
