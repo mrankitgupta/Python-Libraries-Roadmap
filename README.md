@@ -71,7 +71,7 @@ There are many different libraries in Python, which provide useful data analysis
 
 Python has a number of libraries, like :
 
-<h3 align="center"> <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> </h3>
+<h3 align="center"> <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> </h3>
 
 |**Sr.No. 🔢**|**Pandas Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
