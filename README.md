@@ -10,8 +10,6 @@ Python libraries are pre-written programs that allow developers to program more 
 
 Python libraries are a great way to data analysis and machine learning. They provide powerful functionality and flexibility for any task, regardless of the type of data. Python libraries make it easy for developers and data scientists to prototype and scale their models, regardless of their size or complexity.
 
-
-
 The Python programming language comes with a built-in library called the “Standard Library” which has all the necessary modules for tasks like input/output, data manipulation, text processing, packaging, and more.
 
 Making use of the Python Standard Library is not enough for many developers because it cannot accommodate all their needs. That is why there are also Python Libraries that can be imported in order to make them more efficient when accomplishing specific tasks.
