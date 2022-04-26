@@ -69,14 +69,62 @@ Python has become a staple in data science, allowing data analysts and other pro
 
 There are many different libraries in Python, which provide useful data analysis tools for scientists and engineers.These libraries can be used to analyze, graph and visualize data. They can also be used to create complex mathematical equations and 3D animations.
 
-Python also has a number of libraries, like :
+**Before learning [Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries), begin with learning [Python Programming](https://github.com/mrankitgupta/Python-Lessons)**
+
+Python has a number of libraries, like :
 
 <h3 align="center"> <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> </h3>
 
+|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|------|--------------------|---------------------|---------------------|
+|1| Basics, Data Structures - Series, DataFrame, Panel | [Pandas Course - by Kaggle](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) |
+|2| **Summary Functions and Maps, Operations** - Slicing, Merging | [Kaggle Notebooks on Pandas](https://www.kaggle.com/mrankitgupta/code) |
+|3| **Operations** - Joining, Concatenation | [GitHub Repo on Pandas](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises) |
+|4| Changing Index & Column Header, Data Munging | [JavaTpoint](https://www.javatpoint.com/python-pandas)|
+|5| Grouping & Sorting, Data Types & Missing Values | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=30498s)|
+|6| Renaming and Combining | [TutorialsPoint](https://www.tutorialspoint.com/python_pandas/index.htm)|
+|7| Pandas-Matplotlib | :white_check_mark:|
+  
+<h3 align="center"> <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> 
+ </h3>
+ 
+|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|------|--------------------|---------------------|---------------------|
+|1| Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes | [NumPy Tutorial - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN)|
+|2| NdArray, Datatypes, Array Attributes | [JavaTpoint](https://www.javatpoint.com/numpy-tutorial)|
+|3| Indexing & Slicing, Array Creation | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=27503s), [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) :white_check_mark:|
+|4| Broadcasting, Operations, Functions | [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) :white_check_mark:|
+|5| Mathematics, Matrix, NumPy-Matplotlib | :white_check_mark:|
+
+<h3 align="center"> <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> </h3>
+
+|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|------|--------------------|---------------------|---------------------|
+|1| Basics, Data Visualization, Architecture, Concepts | [Matplotlib Course - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW)|
+|2| Pyplot & Subplot | [JavaTpoint](https://www.javatpoint.com/matplotlib) |
+|3| 7 Types of plots | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=32953s)|
+|4| Multiple plots | [TutorialsPoint](https://www.tutorialspoint.com/matplotlib/index.htm) :white_check_mark:|
+
+<h3 align="center"> <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> </h3>
+
+|**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
+|------|--------------------|---------------------|---------------------|
+|1| Style functions | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=34338s) |
+|2| Color palettes | [TutorialsPoint](https://www.tutorialspoint.com/seaborn/index.htm) |
+|2| Distribution plots | [JavaTpoint](https://www.javatpoint.com/python-seaborn-library) |
+|2| Categorical plots |  |
+|2| Regression plots |  |
+|3| Axis grid objects | :white_check_mark:|
 
 
-  
-  
+### Projects in Python
+
+|**Sr.No. 🔢**|**Projects 👨‍💻**| **Reference Links :link:**|
+|------|--------------------|---------------------|
+|**Python Project 1**| Spotify Data Analysis using Python | [GitHub Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) & [Kaggle Notebook](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project) |
+|**Python Project 2**| Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
+
+
 ## Useful sites to learn Coding in Python  :link:
 
 ### YouTube Channels:
