@@ -59,7 +59,7 @@ Making use of the Python Standard Library is not enough for many developers beca
  
 <code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
  
-<code>[Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
+<code>[Complete Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
  
 ## Python Libraries for Data Analysis and Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
 
@@ -67,7 +67,7 @@ Python has become a staple in data science, allowing data analysts and other pro
 
 There are many different libraries in Python, which provide useful data analysis tools for scientists and engineers.These libraries can be used to analyze, graph and visualize data. They can also be used to create complex mathematical equations and 3D animations.
 
-**Prerequisite:** <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 
+**Prerequisite:** <code>[Complete Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑 
 
 Python has a number of libraries, like :
 
