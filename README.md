@@ -2,7 +2,7 @@
 
 **I am sharing lessons in various Python Libraries from scratch to intermediate including practice sets which were useful into my journey of Data Science.** 
 
-For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: & <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
+For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: & <code>[Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
 
 ### Overview of Python Libraries
 
@@ -59,9 +59,9 @@ Making use of the Python Standard Library is not enough for many developers beca
  
 <code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
  
-<code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
+<code>[Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
  
-## Python Libraries for Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
+## Python Libraries for Data Analysis and Data Science <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="25"/> </a>
 
 Python has become a staple in data science, allowing data analysts and other professionals to use the language to conduct complex statistical calculations, create data visualizations, build machine learning algorithms, manipulate and analyze data, and complete other data-related tasks more quickly and efficiently.
 
